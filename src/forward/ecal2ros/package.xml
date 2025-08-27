@@ -3,9 +3,9 @@
 <package format="3">
   <name>ecal2ros</name>
   <version>0.2.0</version>
-  <description>TODO: Package description</description>
+  <description>Bridge eCAL image data to ROS 2 compressed image topics</description>
   <maintainer email="pengcheng@jushenzhiren.com">firefly</maintainer>
-  <license>TODO: License declaration</license>
+  <license>BSD-3-Clause</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 

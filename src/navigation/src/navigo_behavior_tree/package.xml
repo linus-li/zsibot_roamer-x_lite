@@ -3,7 +3,7 @@
 <package format="3">
   <name>navigo_behavior_tree</name>
   <version>1.1.18</version>
-  <description>TODO</description>
+  <description>Behavior Tree nodes and plugins for the Navigo navigation system</description>
   <maintainer email="michael.jeronimo@intel.com">Michael Jeronimo</maintainer>
   <maintainer email="carlos.a.orduno@intel.com">Carlos Orduno</maintainer>
   <maintainer email="mohammad.haghighipanah@intel.com">Carlos Orduno</maintainer>

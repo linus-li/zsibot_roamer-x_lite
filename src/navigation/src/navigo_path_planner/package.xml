@@ -3,7 +3,7 @@
 <package format="3">
   <name>navigo_path_planner</name>
   <version>1.1.18</version>
-  <description>TODO</description>
+  <description>Global path planning server for the Navigo navigation stack</description>
   <maintainer email="stevenmacenski@gmail.com">Steve Macenski</maintainer>
   <license>Apache-2.0</license>
 

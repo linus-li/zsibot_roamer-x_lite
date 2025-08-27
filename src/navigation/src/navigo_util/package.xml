@@ -3,7 +3,7 @@
 <package format="3">
   <name>navigo_util</name>
   <version>1.1.18</version>
-  <description>TODO</description>
+  <description>Utilities and lifecycle helpers for the Navigo navigation stack</description>
   <maintainer email="michael.jeronimo@intel.com">Michael Jeronimo</maintainer>
   <maintainer email="mohammad.haghighipanah@intel.com">Mohammad Haghighipanah</maintainer>
   <license>Apache-2.0</license>
